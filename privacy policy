@@ -1,0 +1,14 @@
+Instant Video Indexer — Privacy Policy
+Last Updated: March 2026
+
+1. Data Collection:
+Instant Video Indexer does not collect, store, or transmit any personal data to our own servers. We do not track your browsing history or video watch patterns.
+
+2. API Keys and Security:
+Any API keys (OpenAI, Anthropic, etc.) you provide are stored exclusively within your browser’s local storage (chrome.storage.sync). These keys are only transmitted directly to the official AI providers (e.g., api.openai.com) to process your specific indexing requests.
+
+3. Third-Party Services:
+By using this extension, you are sending video transcript data to the AI provider of your choice. We encourage you to review the privacy policies of OpenAI or Anthropic regarding how they handle data sent via their APIs.
+
+4. Payments:
+Payment processing for Pro features is handled securely via Stripe. We do not store your credit card or billing information.
